@@ -1,4 +1,7 @@
-
+### DỰ ÁN PHẦM MỀM BÁN TÚI XÁCH NỮ DA VELISA
+```
+“Phần mềm bán túi xách da nữ Velisa”: là phần mềm giúp các cơ sở kinh doanh nhỏ lẻ túi xách có thể quản lý lượng sản phẩm khổng lồ từ nhu cầu người dùng cũng như tối ưu hóa lợi nhuận bán hàng trên thị trường ,  nâng cao chất lượng dịch vụ và trải nghiệm người dùng. 
+```
 ### Library use
 - flatlaf-3.2.jar
 - flatlaf-extras-3.2.jar
